@@ -1,0 +1,6 @@
+fat_loss_tracker.csv
+__pycache__/
+*.pyc
+venv/
+.env
+.DS_Store
